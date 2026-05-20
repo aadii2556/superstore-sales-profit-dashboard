@@ -9,7 +9,7 @@ This project transforms raw retail transactional data into actionable business i
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard-overview.png)
+![Project 02 SS](/documentation/Project02SS.png)
 
 ---
 
