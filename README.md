@@ -62,55 +62,12 @@ This dashboard centralizes retail analytics into a single interactive business i
 
 ---
 
-## Project Architecture
-
-```plaintext
-superstore-sales-profit-dashboard/
-│
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── external/
-│
-├── dashboard/
-│   └── powerbi/
-│       └── SuperStore_Dashboard.pbix
-│
-├── screenshots/
-│   └── dashboard-overview.png
-│
-├── reports/
-│   ├── business-insights.md
-│   └── executive-summary.pdf
-│
-├── docs/
-│   ├── architecture.md
-│   └── dax-measures.md
-│
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-
----
-
 ## Dashboard Insights
 
 - Technology and Office Supplies contribute significantly to revenue.
 - Some states generate high sales but low profitability.
 - Geographic customer concentration is strongest in major commercial regions.
 - Certain categories exhibit unstable profit margins across states.
-
----
-
-## Future Improvements
-
-- Real-time dashboard refresh
-- Machine learning sales forecasting
-- Customer segmentation analysis
-- Automated ETL pipeline
-- Power BI Service deployment
-- AI-powered anomaly detection
 
 ---
 
