@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Power BI
+*.pbix.autorecovery
+*.tmp
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data Files
+*.sqlite3
+*.db
+
+# Build Files
+build/
+dist/
